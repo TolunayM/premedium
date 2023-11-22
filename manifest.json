@@ -1,0 +1,20 @@
+{
+
+    "manifest_version":3,
+    "name": "Better Medium",
+    "version" : "1.0.0",
+
+    "description": "Get behind of medium paywall.  http://webcache.googleusercontent.com/search?q=cache:",
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "scripting"
+    ],
+    "action": {
+        "default_title": "Click for better MEDIUM"
+    },
+
+    "background" : {
+        "service_worker" : "background.js"
+    }
+}
