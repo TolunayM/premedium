@@ -5,6 +5,4 @@ if(currentTab.includes("medium.com")){
     window.location.href = prefix + currentTab + '&sca_esv=584340551&strip=1&vwsrc=0'
 }
 
-window.history.replaceState({},'','')
-
-//alert(window.location.href);
+// window.history.replaceState({},'','')
