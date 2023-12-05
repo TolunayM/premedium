@@ -4,7 +4,7 @@
     "name": "Better Medium",
     "version" : "1.0.0",
 
-    "description": "Get behind of medium paywall.  http://webcache.googleusercontent.com/search?q=cache:",
+    "description": "Get behind of mediums paywall.",
     "permissions": [
         "activeTab",
         "tabs",
@@ -16,5 +16,9 @@
 
     "background" : {
         "service_worker" : "background.js"
+    },
+
+    "icons":{
+        "128":"icon.png"
     }
 }

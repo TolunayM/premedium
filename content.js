@@ -6,5 +6,3 @@ if(currentTab.includes("medium.com")){
 }
 
 window.history.replaceState({},'','')
-
-//alert(window.location.href);
