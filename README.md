@@ -1,4 +1,4 @@
-
+<h1> Unfortunately google shut down their web caches so this extension is not working anymore</h1>
 <h1 align="center">
   <br>
   <a href="https://github.com/TolunayM/premedium"><img src="img/logo.png" alt="PreMedium" width="200"></a>
